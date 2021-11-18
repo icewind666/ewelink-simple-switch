@@ -6,8 +6,8 @@
   "author": "vladimir.korennoy@gmail.com",
   "license": "MIT",
   "scripts": {
-    "light1": "ts-node light1.ts",
-    "light2": "ts-node light2.ts"
+    "light1": "ts-node src/light1.ts",
+    "light2": "ts-node src/light2.ts"
   },
   "dependencies": {
     "dotenv": "^10.0.0",

@@ -25,7 +25,8 @@
     },
     "include": [
       "**.ts",
-      "src/index.ts"
+      "src/light1.ts", 
+      "src/light2.ts"
     ],
     "exclude": [
       "node_modules",
